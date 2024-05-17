@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm MoedaDe5Euros</h1>
 <h3 align="center">Dev for passion, madman by heart</h3>
 
-
-
-
-- 📫 **rm.loucao@campus.fct.unl.pt**
-
 <p align="left">
 </p>
 
@@ -17,3 +12,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moedade5euros&" alt="moedade5euros" /></p>
 
+- 📫 **rm.loucao@campus.fct.unl.pt**
