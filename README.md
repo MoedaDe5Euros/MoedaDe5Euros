@@ -10,6 +10,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moedade5euros&show_icons=true&locale=en" alt="moedade5euros" /></p>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moedade5euros&" alt="moedade5euros" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moedade5euros&" alt="moedade5euros" /></p>
 
 - 📫 **rm.loucao@campus.fct.unl.pt**
